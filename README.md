@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou o Gabriel Carvalho 👋
 
-<!--
-**Gcarvalhodev/Gcarvalhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Estou em busca de uma vaga no mercado de trabalho 
+- 🌱 Estudando HTML5, CSS e JavaScript
+- 👯 Faço faculdade de Ciência da Computação na UNIP - Paulista
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/Gcarvalhodev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gcarvalhodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarvalhodev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" 
+ 
